@@ -5,9 +5,9 @@ def repeating(nums):
     for i in nums:
        if i in freq:
            freq[i]+=1
-           if freq[i]==2:
-               print(i)
        else:
             freq[i]=1
 
+       if freq[i] == 2:
+        print(i)
 repeating(nums)
