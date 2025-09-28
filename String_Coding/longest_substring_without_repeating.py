@@ -15,6 +15,7 @@ def check(str):
             i+=1
 
     print(max_len)
+    print(c_set)
 
 str = "aacbbccc"
 check(str)

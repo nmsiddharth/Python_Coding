@@ -1,4 +1,11 @@
+from collections import Counter
+
 nums = [1,2,3,3,4,5,5,6,6,6,7]
+
+counts = Counter(nums)
+print(dict(counts))
+
+#OR
 
 def frequency(nums):
     freq = {}
@@ -10,4 +17,4 @@ def frequency(nums):
             freq[i] = 1
     print(freq)
 
-frequency(nums)
+#frequency(nums)

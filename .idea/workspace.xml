@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01cd44a3-7423-4309-847c-b8ccdbb908f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array_Coding/insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_Coding/sum_of_list_using_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Coding/Prime_number_in_given_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Coding/fibonacci_using_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Coding/infinite_fib_series_using_generator_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Coding/sort_without_using_sort().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Coding/Compress_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Coding/FizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Coding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/balanced_parenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/balanced_parenthesis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/buy_and_sell_stocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/buy_and_sell_stocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/circular_rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/circular_rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/distinct_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/distinct_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/frequency_of_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/frequency_of_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/kadane_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/kadane_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/maximum_product_subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/maximum_product_subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/pairs_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/pairs_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/print_1_to_50__using_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/print_1_to_50__using_recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/reverse_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/reverse_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/second_smallest_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/second_smallest_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/smallest_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/smallest_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/three_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Coding/three_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Coding/two_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/abundant_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/abundant_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/armstrong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/armstrong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/binary_to_decimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/binary_to_decimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/gcd_of_2_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/gcd_of_2_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/numbers_to_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/numbers_to_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Coding/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Coding/prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyramid_Patterns/Diamond.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyramid_Patterns/Diamond.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyramid_Patterns/Inverse_Reverse_Right_Angle_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyramid_Patterns/Inverse_Reverse_Right_Angle_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyramid_Patterns/Inverse_Right_Angle_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyramid_Patterns/Inverse_Right_Angle_Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyramid_Patterns/Inverse_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyramid_Patterns/Inverse_Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyramid_Patterns/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyramid_Patterns/Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Coding/anagram_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/String_Coding/anagram_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Coding/capitalize_first_letter_of_each_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/String_Coding/capitalize_first_letter_of_each_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Coding/longest_substring_without_repeating.py" beforeDir="false" afterPath="$PROJECT_DIR$/String_Coding/longest_substring_without_repeating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Coding/remove_braces_from_expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/String_Coding/remove_braces_from_expression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Coding/string_is_palindrome_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/String_Coding/string_is_palindrome_or_not.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rItvwhHdnUTM9ebthMPHUQGmho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverse_Reverse_Right_Angle_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverse_Right_Angle_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverse_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reverse_Right_Angle_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abundant_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_to_decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.capitalize_first_letter_of_each_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circular_rotation.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.distinct_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frequency_of_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gcd_of_2_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SIDDU/Technical Education/Python/Python_code/Python_DSA_coding&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.capitalize_first_letter_of_each_word">
+    <configuration name="Diamond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyramid_Patterns" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyramid_Patterns/Diamond.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="capitalize_first_letter_of_each_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Coding/capitalize_first_letter_of_each_word.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="circular_rotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_Coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_Coding/circular_rotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="distinct_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_Coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_Coding/distinct_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="frequency_of_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_Coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_Coding/frequency_of_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.capitalize_first_letter_of_each_word" />
+        <item itemvalue="Python.frequency_of_elements" />
+        <item itemvalue="Python.distinct_elements" />
+        <item itemvalue="Python.circular_rotation" />
+        <item itemvalue="Python.Diamond" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-af26db0dccfe-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.26775.22" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01cd44a3-7423-4309-847c-b8ccdbb908f8" name="Changes" comment="" />
+      <created>1736258650696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736258650696</updated>
+    </task>
+    <servers />
+  </component>
+</project>

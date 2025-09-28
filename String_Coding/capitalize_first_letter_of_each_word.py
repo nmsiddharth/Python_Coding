@@ -8,5 +8,9 @@ class capitalize:
         res = " ".join(capitalized_word)
         print(res)
 
+    def check2(self):
+        result = self.string.title()
+        print(result)
 obj = capitalize("hi iam siddu")
 obj.check()
+obj.check2()

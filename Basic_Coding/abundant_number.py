@@ -15,3 +15,5 @@ def proper_divisors(num):
         print("Not Abundant")
 
 proper_divisors(num)
+
+

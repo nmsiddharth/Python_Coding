@@ -19,3 +19,16 @@ def three_sum(arr):
                 right-=1
     print(result)
 three_sum(arr)
+
+
+
+# while left < right:: The inner loop continues as long as the left pointer is less than the right pointer.
+# sum = arr[i] + arr[left] + arr[right]: Calculate the sum of the current triplet formed by arr[i], arr[left], and arr[right].
+# Case 1: sum == 0 (Triplet Found):
+# result.add((arr[i], arr[left], arr[right])): If the sum is equal to zero, we have found a valid triplet. We add it to the result set as a tuple.
+# left += 1: Move the left pointer one position to the right.
+# right -= 1: Move the right pointer one position to the left.
+# Case 2: sum < 0 (Sum Too Small):
+# left += 1: If the sum is less than zero, it means we need a larger sum. We move the left pointer one position to the right to consider a larger element.
+# Case 3: sum > 0 (Sum Too Large):
+# right -= 1: If the sum is greater than zero, it means we need a smaller sum. We move the right pointer one position to the left to consider a smaller element.

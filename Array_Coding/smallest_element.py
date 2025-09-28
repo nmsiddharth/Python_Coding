@@ -8,3 +8,6 @@ def smallest(num):
     print(minimum)
 
 smallest(num)
+
+ #  "OR"
+print(min(num))

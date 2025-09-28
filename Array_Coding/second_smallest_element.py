@@ -1,16 +1,18 @@
+
 num = [4,3,2,5,6,9,7]
 
 def second_smallest(num):
-    first_min= num[0]
-    for i in num:
-        if i < first_min:
-            first_min = i
 
-    second_min = num[0]
+    smallest = min(num[0],num[1])
+    second_smallest = max(num[0],num[1])
 
-    for i in num:
-        if i<second_min and i>first_min:
-            second_min = i
-    print(second_min)
+    for i in range(2,len(num)):
+        if num[i]<smallest:
+            second_smallest = smallest
+            smallest = num[i]
+        elif num[i]<second_smallest and num[i]!=smallest:
+            second_smallest = num[i]
+
+    print(second_smallest)
 
 second_smallest(num)
