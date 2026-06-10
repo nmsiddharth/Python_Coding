@@ -5,7 +5,7 @@ def check(str):
     for i in str:
         if i not in 'aeiou':
             new.append(i)
-        s = "".join(new)
+    s = "".join(new)
     print(s)
 
 check(str)

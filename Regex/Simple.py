@@ -85,11 +85,11 @@ sentence = 'Start a sentence and then bring it to an end'
 
 
 ''' To match the names that starts with 'Mrs' or 'Ms' or 'Mr' '''
-pattern = re.compile(r'M(r|s|rs)\.?\s[A-Z]\w*')  
-matches2 = pattern.finditer(text_to_search)
+# pattern = re.compile(r'M(r|s|rs)\.?\s[A-Z]\w*')  
+# matches2 = pattern.finditer(text_to_search)
 
-for match in matches2:
-    print(match)  
+# for match in matches2:
+#     print(match)  
 
 
 
@@ -102,3 +102,23 @@ for match in matches2:
     
 #     for match in matches3:
 #         print(match)    
+
+
+''' To match different emails'''
+emails = '''
+CoreyMSchafer@gmail.com
+corey.schafer@university.edu
+corey-321-schafer@my-work.net
+siddharthnm07@gmail.com
+'''
+
+pattern1 = re.compile(r'[a-zA-Z]+\.@[a-z]+\.com')  # to match 1st email
+pattern2 = re.compile(r'[a-zA-Z]+\.[a-zA-Z]+@[a-z]+\.edu')  # to match 2nd email
+pattern3 = re.compile(r'[a-zA-Z]+-\d{3}-[a-zA-Z]+@[a-z]+-[a-z]+\.net')  # to match 3rd email
+pattern4 = re.compile(r'[a-zA-Z]+\d*@[a-z]+\.com')
+
+pattern = re.compile(r'[a-zA-Z0-9.-]+@[a-zA-Z-]+\.(com|edu|net)')  # To match all 4 email in one pattern
+matches4 = pattern.finditer(emails)
+
+for match in matches4:
+    print(match)    

@@ -1,4 +1,13 @@
-nums = [0,1,0,3,12]
+#nums = [0,1,0,3,12]
+
+input = "010312"
+nums = []
+
+'''Converting integers into list '''
+
+for i in input:
+    nums.append(int(i))
+
 n = len(nums)
 write_pointer = 0    # Non-zero pointer
 
