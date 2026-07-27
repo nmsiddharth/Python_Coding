@@ -2,6 +2,8 @@ arr = [1,2,3,4,5]
 k = 3
 def circular_rotation(arr,k):
     j = 1
+    n = len(arr)
+    k = k%n  # Reduces extra full-circle rotations
     while j<=k: 
         temp = arr[len(arr) - 1]     # store last element in temp 
         for i in range(len(arr)-1,0,-1):      
